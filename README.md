@@ -190,16 +190,14 @@ https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-inform
 
 ### What technologies would this additional product or service utilize?
 
-* Fujifilm Medical Systems U.S.A. Inc., offered the latest version of Synapse RIS (radiology information system)
- 
-* “Synapse RIS has integrated EHR into a powerful radiology management tool that can enhance workflow and increase the productivity of radiology practices,” said Jim Morgan, vice president of medical informatics, Fujifilm. “The platform offers the flexibility needed to support additional stages of meaningful use criteria, as well as other government regulations that may be forthcoming.” 
- 
-* Synapse RIS integrates with Synapse PACS (Picture Archiving and Communication System) and has additional productivity enhancing features for radiologists such as:
+* This product can integrate well with Synapse RIS (radiology information system). Synapse RIS integrates with Synapse PACS (Picture Archiving and Communication System) and has additional productivity enhancing features for radiologists such as:
    *  An interactive analytics dashboard that provides a visual snapshot of key performance indicators
    * Peer review capabilities directly integrated into the diagnostic process
    * Urgent findings for providing closed-loop communications and compliance
    * Patient portal capabilities to empower patients, reduce wait times and satisfy meaningful use criteria
-
+ 
+* “Synapse RIS has integrated EHR into a powerful radiology management tool that can enhance workflow and increase the productivity of radiology practices,” said Jim Morgan, vice president of medical informatics, Fujifilm. “The platform offers the flexibility needed to support additional stages of meaningful use criteria, as well as other government regulations that may be forthcoming.” 
+ 
 * Synapse Cloud Services - Synapse Cloud Services seamlessly hosts, archives, and protects enterprise imaging data.
 
 https://www.itnonline.com/content/fujifilm-demonstrates-meaningful-use-stage-ii-requirements-radiology-professionals
