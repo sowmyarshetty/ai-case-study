@@ -2,11 +2,6 @@
 
 ### Artificial intelligence (AI) and deep learning have made an immense impact on enterprise imaging in recent years and this impact continues to grow each and every day. The need for improved patient care through timely and accurate medical imaging analysis has revolutionized the field of medical technolgies with cutting-edge AI innovations.  The team at FUJIFILM Medical Systems U.S.A., Inc. (Fujifilm) has been leading the industry with its innovation and support of radiologists every step of the way.
 
-Medical imaging saves millions of lives each year. It helps doctors to detect and diagnose a wide range of diseases, from cancer and appendicitis to stroke and heart disease.
-Artificial intelligence (AI) is supporting real-world solutions across the healthcare space, including medical imaging. With help from AI, imaging technicians don’t even need to rely on their eyes alone to identify potential concerns.
-
-AI has the potential to revolutionize the advanced medical imaging industry. Already, AI is being used to help physicians sift through large volumes of scans and return diagnostic insights, giving them more time to oversee treatments and work directly with patients. AI-driven analytics and predictive analytics can even improve the accuracy and speed of decision-making around treatment options.
-
 ## Name of the Company : 
 ### FUJIFILM Healthcare 
 ### Legal Name - FUJIFILM Holdings Americas Corporation
