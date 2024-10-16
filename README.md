@@ -5,7 +5,7 @@
 ## Name of the Company : 
 ### FUJIFILM Healthcare 
 ### Legal Name - FUJIFILM Holdings Americas Corporation
- FUJIFILM Healthcare is a subsidiary of FUJIFILM Holdings Corporation has 310 consolidated subsidiaries worldwide.   Fujifilm's healthcare history began in 1936 when the company started making X-ray film, and has since evolved to include a wide range of products and services:including diagnostic imaging, ultrasound systems,CT, and MRI. (https://healthcaresolutions-us.fujifilm.com/who-we-are/)
+ > FUJIFILM Healthcare is a subsidiary of FUJIFILM Holdings Corporation has 310 consolidated subsidiaries worldwide.   Fujifilm's healthcare history began in 1936 when the company started making X-ray film, and has since evolved to include a wide range of products and services:including diagnostic imaging, ultrasound systems,CT, and MRI. (https://healthcaresolutions-us.fujifilm.com/who-we-are/)
 
 ### Fujifilm company was founded by Kahunichi Nakajima, and its headquarter is in Tokyo, Japan.     
 
