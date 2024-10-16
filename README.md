@@ -8,14 +8,15 @@ Artificial intelligence (AI) is supporting real-world solutions across the healt
 AI has the potential to revolutionize the advanced medical imaging industry. Already, AI is being used to help physicians sift through large volumes of scans and return diagnostic insights, giving them more time to oversee treatments and work directly with patients. AI-driven analytics and predictive analytics can even improve the accuracy and speed of decision-making around treatment options.
 
 ## Name of the Company : 
-### FUJIFILM Healthcare Legal Name - FUJIFILM Holdings Americas Corporation
+### FUJIFILM Healthcare 
+### Legal Name - FUJIFILM Holdings Americas Corporation
  FUJIFILM Healthcare is a subsidiary of FUJIFILM Holdings Corporation which has 310 consolidated subsidiaries worldwide.   Fujifilm's healthcare history began in 1936 when the company started making X-ray film, and has since evolved to include a wide range of products and services:including diagnostic imaging, ultrasound systems,CT, and MRI. (https://healthcaresolutions-us.fujifilm.com/who-we-are/)
 
 ### Fujifilm company was founded by Kahunichi Nakajima, and its headquarter is in Tokyo, Japan.     
 
 ## Project / Product Name 
 ### Fujifilm’s The Synapse® Enterprise Imaging portfolio along with REiLI®
-* The Synapse® Enterprise Imaging portfolio provides healthcare professionals with the imaging and data access needed to deliver a complete patient record. By combining its existing image-processing technologies with AI,　this creates an open platform that provides robust support for diagnostic imaging. 
+* The Synapse® Enterprise Imaging portfolio is a one stop platform that provides healthcare professionals with imaging data and access to all other data needed to deliver a complete patient record. This platform combines its existing image-processing technologies with AI, and  creates an open platform that provides robust support for diagnostic imaging. 
 * REiLI® is Fujifilm’s artificial intelligence initiative and is the company's medical AI brand. In Japanese, the word “REiLI” connotes intelligent and resourceful. This AI technology creates value by collaboration of AI with human and other AI.  
 https://reili.fujifilm.com/en/technology/index.html
  
@@ -25,10 +26,8 @@ https://healthcaresolutions-us.fujifilm.com/who-we-are/
 
 ## Use case the project is trying to solve 
 
-* Delayed Diagnosis: Radiologists often face delays in reviewing critical medical images due to high workloads and the prioritization of studies, which can lead to significant impacts on patient outcomes. 
+* Delayed Diagnosis: Radiologists often face delays in reviewing critical medical images due to high workloads and the prioritization of studies, which can lead to significant impacts on patient outcomes. The primary area being focused by AI is to scan  medical images as soon as possible after acquisition, before they reach the radiologist.
 * Workflow Inefficiencies: Traditional methods of managing imaging tasks can be cumbersome, consuming valuable time that could be better spent on patient care. 
-* Workflow improvements 
-The primary area being focused by AI is to scan  medical images as soon as possible after acquisition, before they reach the radiologist.
 * Integration of AI: The challenge of effectively integrating AI technologies into existing medical imaging systems to enhance efficiency and collaboration among various stakeholders in healthcare.
 https://radiologybusiness.com/sponsored/50136/fujifilm-healthcare-americas/topics/medical-imaging/transforming-radiologist
 
@@ -38,7 +37,7 @@ https://radiologybusiness.com/sponsored/50136/fujifilm-healthcare-americas/topic
 * According to Signify Research report , Synapse PACS is among the worlds top market share. As of fy 2023, the total number of countries introducing the AI driven medical products and services is 100 and forecasted to 196 countries in FY2030. 
 https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/ 
 
-* SYNAPSE - Series of medical imaging and information management system. According to Signify Research Report , SYNAPSE is installed about 5800 sites worldwide . It has gained high praise from major hospitals  in various areas and  captured the worlds market share 
+* According to Signify Research Report , SYNAPSE is installed about 5800 sites worldwide . It has gained high praise from major hospitals  in various areas and  captured the worlds market share 
 https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf
 
 
@@ -105,6 +104,8 @@ It is a technology that supports the automation of inspections.
 Released Cloud AI platform service (Provided only in Japan) Japan
 * 2022 - SYNAPSE Creative Space
 Released cloud AI development platform service to assist healthcare professionals and enginieers in develpoing AI technology.
+
+https://reili.fujifilm.com/en/about/index.html
 
 ## What are the other major companies in this field?
 * GE HealthCare - Centiricity 
