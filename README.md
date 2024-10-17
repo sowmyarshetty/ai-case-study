@@ -21,7 +21,7 @@ https://reili.fujifilm.com/en/technology/index.html
 * Workflow Inefficiencies: Traditional methods of managing imaging tasks can be cumbersome, consuming valuable time that could be better spent on patient care. 
 * Integration of AI: The challenge of effectively integrating AI technologies into existing medical imaging systems to enhance efficiency and collaboration among various stakeholders in healthcare.
 ![alt text](image-2.png)
-###### Example of Use of AI in Radiology
+###### <p style="text-align:center;">Example of Use of AI in Radiology </p>
 https://reili.fujifilm.com/en/research/id=research202409-01/index.html
 https://radiologybusiness.com/sponsored/50136/fujifilm-healthcare-americas/topics/medical-imaging/transforming-radiologist
 
