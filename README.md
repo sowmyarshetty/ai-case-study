@@ -4,7 +4,7 @@
 
 ## Name of the Company : 
 ### FUJIFILM Healthcare 
-### Legal Name - FUJIFILM Holdings Americas Corporation
+#### Legal Name - FUJIFILM Holdings Americas Corporation
  > Fujifilm company was founded by Kahunichi Nakajima, and its headquarter is in Tokyo, Japan.  FUJIFILM Healthcare is a subsidiary of FUJIFILM Holdings Corporation which has 310 consolidated subsidiaries worldwide.   Fujifilm's healthcare history began in 1936 when the company started making X-ray film, and has since evolved to include a wide range of products and services:including diagnostic imaging, ultrasound systems,CT, and MRI. (https://www.fujifilm.com/us/en/healthcare). The healthcare business of Fujifilm Holdings corporation  is the companys largest segment with global revenue of $29 billion. Healthcare business alone generates $6.4 billion as of march 31 2023. https://healthcaresolutions-us.fujifilm.com/who-we-are/
  ![alt text](image.png)
 
