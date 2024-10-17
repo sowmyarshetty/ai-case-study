@@ -20,9 +20,11 @@ https://reili.fujifilm.com/en/technology/index.html
 * Delayed Diagnosis: Radiologists often face delays in reviewing critical medical images due to high workloads and the prioritization of studies, which can lead to significant impacts on patient outcomes. The primary area being focused by AI is to scan  medical images as soon as possible after acquisition, before they reach the radiologist.
 * Workflow Inefficiencies: Traditional methods of managing imaging tasks can be cumbersome, consuming valuable time that could be better spent on patient care. 
 * Integration of AI: The challenge of effectively integrating AI technologies into existing medical imaging systems to enhance efficiency and collaboration among various stakeholders in healthcare.
-![alt text](image-2.png)*<small>Example of Use of AI in Radiology</small>* 
-https://radiologybusiness.com/sponsored/50136/fujifilm-healthcare-americas/topics/medical-imaging/transforming-radiologist
+![alt text](image-2.png)
+*<small>Example of Use of AI in Radiology</small>* 
 https://reili.fujifilm.com/en/research/id=research202409-01/index.html
+https://radiologybusiness.com/sponsored/50136/fujifilm-healthcare-americas/topics/medical-imaging/transforming-radiologist
+
 
  
 ## Who is the company's intended customer? Is there any information about the market size of this set of customers? 
