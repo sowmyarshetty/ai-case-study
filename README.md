@@ -1,13 +1,12 @@
 # AI Case Study in the field of Radiology to support diagnosis by providing Image Processing technolgies with AI 
 
-> Artificial intelligence (AI) and deep learning have made an immense impact on enterprise imaging in recent years and this impact continues to grow each and every day. The need for improved patient care through timely and accurate medical imaging analysis has revolutionized the field of medical technolgies with cutting-edge AI innovations.  The team at FUJIFILM Medical Systems U.S.A., Inc. (Fujifilm) has been leading the industry with its innovation and support of radiologists every step of the way. 
+> Artificial intelligence (AI) and deep learning have made an immense impact on enterprise imaging in recent years and this impact continues to grow each and every day. The need for improved patient care through timely and accurate medical imaging analysis has revolutionized the field of medical technolgies with cutting-edge AI innovations.  FUJIFILM Medical Systems U.S.A., Inc. (Fujifilm) has been leading the industry with its innovation and support of radiologists every step of the way. 
 
 ## Name of the Company : 
 ### FUJIFILM Healthcare 
 ### Legal Name - FUJIFILM Holdings Americas Corporation
- > FUJIFILM Healthcare is a subsidiary of FUJIFILM Holdings Corporation has 310 consolidated subsidiaries worldwide.   Fujifilm's healthcare history began in 1936 when the company started making X-ray film, and has since evolved to include a wide range of products and services:including diagnostic imaging, ultrasound systems,CT, and MRI. (https://healthcaresolutions-us.fujifilm.com/who-we-are/)
-
-### Fujifilm company was founded by Kahunichi Nakajima, and its headquarter is in Tokyo, Japan.     
+ > Fujifilm company was founded by Kahunichi Nakajima, and its headquarter is in Tokyo, Japan.  FUJIFILM Healthcare is a subsidiary of FUJIFILM Holdings Corporation which has 310 consolidated subsidiaries worldwide.   Fujifilm's healthcare history began in 1936 when the company started making X-ray film, and has since evolved to include a wide range of products and services:including diagnostic imaging, ultrasound systems,CT, and MRI. (https://www.fujifilm.com/us/en/healthcare). The healthcare business of Fujifilm Holdings corporation  is the companys largest segment with global revenue of $29 billion. Healthcare business alone generates $6.4 billion as of march 31 2023. https://healthcaresolutions-us.fujifilm.com/who-we-are/
+ ![alt text](image.png)
 
 ## Project / Product Name 
 ### Fujifilm’s The Synapse® Enterprise Imaging portfolio along with REiLI®
@@ -16,11 +15,7 @@
 https://reili.fujifilm.com/en/technology/index.html
  
 
-### This company is funded through the healthcare business of Fujifilm Holdings corporation which is the companys largest segment.  With global revenue of $29 billion , healthcare business alone generates $6.4 billion as of march 31 2023. 
-https://healthcaresolutions-us.fujifilm.com/who-we-are/
-
 ## Use case the project is trying to solve 
-
 * Delayed Diagnosis: Radiologists often face delays in reviewing critical medical images due to high workloads and the prioritization of studies, which can lead to significant impacts on patient outcomes. The primary area being focused by AI is to scan  medical images as soon as possible after acquisition, before they reach the radiologist.
 * Workflow Inefficiencies: Traditional methods of managing imaging tasks can be cumbersome, consuming valuable time that could be better spent on patient care. 
 * Integration of AI: The challenge of effectively integrating AI technologies into existing medical imaging systems to enhance efficiency and collaboration among various stakeholders in healthcare.
