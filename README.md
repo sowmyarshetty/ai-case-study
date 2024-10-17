@@ -12,6 +12,7 @@
 ### Fujifilm’s The Synapse® Enterprise Imaging portfolio along with REiLI®
 * The Synapse® Enterprise Imaging portfolio is a one stop platform that provides healthcare professionals with imaging data and access to all other data needed to deliver a complete patient record. This platform combines its existing image-processing technologies with AI, and  creates an open platform that provides robust support for diagnostic imaging. 
 * REiLI® is Fujifilm’s artificial intelligence initiative and is the company's medical AI brand. In Japanese, the word “REiLI” connotes intelligent and resourceful. This AI technology creates value by collaboration of AI with human and other AI.  
+![alt text](image-1.png)
 https://reili.fujifilm.com/en/technology/index.html
  
 
