@@ -20,8 +20,8 @@ AI technologies can scan medical images immediately post-acquisition, prioritizi
 * Founded: 1936 (initially as a manufacturer of X-ray film)
 * Headquarters: Tokyo, Japan
 * Market Position: The healthcare segment generated $6.4 billion in revenue as of March 31, 2023.
-(https://www.fujifilm.com/us/en/healthcare) 
-https://healthcaresolutions-us.fujifilm.com/who-we-are/
+* (https://www.fujifilm.com/us/en/healthcare) 
+* https://healthcaresolutions-us.fujifilm.com/who-we-are/
 
 ## Product Portfolio 
 * Synapse® Enterprise Imaging: An integrated platform that unifies various imaging data and provides healthcare professionals with a complete patient record.
@@ -37,17 +37,17 @@ https://healthcaresolutions-us.fujifilm.com/who-we-are/
 
 ## Market size and growth 
 * _According to Signify Research report , Synapse PACS is among the worlds top market share. As of fy 2023, the total number of countries introducing the AI driven medical products and services is 100 and forecasted to 196 countries in FY2030._ 
-https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/ 
+* https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/ 
 
 * _According to Signify Research Report , SYNAPSE is installed about 5800 sites worldwide . It has gained high praise from major hospitals  in various areas and  captured the worlds market share_
-https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf
+* https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf
 
 ## Competitive Advantage 
 Fujifilm's Synapse® 7x platform offers a unique advantage through its:
 * Unified viewing of imaging products (Radiology PACS, Cardiology PACS,3D Advanced Visualization, VNA and Fujifilm’s AI-enabled platform REiLI® etc.)
 * Continuous input from healthcare professionals (radiologists and cardiologists) during functionality development 
 * Integration capabilities with third-party AI engines, enhancing the overall imaging ecosystem and further strengthening the data being made available to the stakeholders.
-https://www.globenewswire.com/news-release/2022/03/15/2403670/0/en/Fujifilm-Presents-Award-winning-Synapse-Enterprise-Imaging-Portfolio-at-HIMSS-2022.html
+* https://www.globenewswire.com/news-release/2022/03/15/2403670/0/en/Fujifilm-Presents-Award-winning-Synapse-Enterprise-Imaging-Portfolio-at-HIMSS-2022.html
 
 ## Technological Implementation
  Fujifilm's Synpase product has Microsoft Azure as its strategic cloud partner. This product leverages several components of Microsoft Azure 
@@ -88,14 +88,14 @@ It is a technology that supports the automation of inspections.
 Released Cloud AI platform service (Provided only in Japan) Japan
 * 2022 - SYNAPSE Creative Space
 Released cloud AI development platform service to assist healthcare professionals and enginieers in develpoing AI technology.
-https://reili.fujifilm.com/en/about/index.html
+* https://reili.fujifilm.com/en/about/index.html
 
 ## Major Competitors 
 * GE HealthCare - Centiricity 
 * Change HealthCare - Radiology solutions
 * IBM - Merge PACS 
 * Sectra PACS, 87.1
-https://www.definitivehc.com/blog/future-trends-in-medical-imaging
+* https://www.definitivehc.com/blog/future-trends-in-medical-imaging
 
 
 ##  Business Impact 
@@ -119,11 +119,11 @@ Fujifilm measures success through key performance indicators, including:
    4. IBM -Merge PACS - 9.78% market share with 594 nbr of installs 
 * Customer satisfaction ratings (e.g., KLAS scores).
 * Clinical efficiency improvements and workflow enhancements.
-https://www.definitivehc.com/resources/healthcare-insights/top-PACS-number-installs
+* https://www.definitivehc.com/resources/healthcare-insights/top-PACS-number-installs
 
 ## Performance Relative to Competitors 
 Fujifilm's Synapse holds an 11% market share, with a significant number of installations. While competitors like GE Healthcare and Sectra lead in market share, Fujifilm's focus on AI integration positions it as a formidable player in the radiology space.
-https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program
+* https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program
 
 ## Recommendations
 * Synapse® Enterprise Imaging portfolio with Reilis AI brings about an open, vendor neutral platform, which can integrate with various AI models resulting in automatic and rapid identification and prioritization of tasks. This enables improved reading accuracy by radiloglosts , reduce reading time and thus improving workflow.  
