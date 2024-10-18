@@ -65,8 +65,7 @@ Fujifilm implemented its Synapse product on Microsoft Azure through a combinatio
 * Data Migration - Large amount of clinical and imaging data has been moved from local storage to Azure Blob Storage . This process involved Data Anonymization and data encryption to comply with HIPAA 
 * Containerization and Microservices Architecture - Fujifilm uses Azure Kubernetes Service (AKS) to deploy Synapse as a microservices based architecture. 
 
-## Landscape - Image Diagnosis AI
-## Fujifilm's History
+## Fujifilm's History in Image Diagnosis
 * 1983 - Launched the world’s first digital radiography system
 * 1999 - Released the industry’s first web-based Radiology PACS
 * 2008 - Launched 3D simulator for organ recognition/Resection
