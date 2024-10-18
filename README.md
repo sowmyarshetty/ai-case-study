@@ -1,62 +1,62 @@
-# AI Case Study in the field of Radiology to support diagnosis by providing Image Processing technolgies with AI 
+# AI in Radiology - Fujifilm HealthCare
+## Summary 
+> Fujifilm Healthcare, a subsidiary of FUJIFILM Holdings Corporation, has positioned itself at the forefront of the medical imaging industry by integrating artificial intelligence (AI) into its imaging solutions. This case study explores the challenges faced by radiologists, the innovative solutions offered by Fujifilm, and the significant impact of AI on improving diagnostic efficiency and patient outcomes.
 
-> Artificial intelligence (AI) and deep learning have made an immense impact on enterprise imaging in recent years and this impact continues to grow each and every day. The need for improved patient care through timely and accurate medical imaging analysis has revolutionized the field of medical technolgies with cutting-edge AI innovations.  FUJIFILM Medical Systems U.S.A., Inc. (Fujifilm) has been leading the industry with its innovation and support of radiologists every step of the way. 
+## Introduction 
+>  Medical imaging saves millions of lives each year. It helps doctors to detect and diagnose a wide range of diseases, from cancer and appendicitis to stroke and heart disease. Yet Radiologists often face delays in reviewing critical medical images due to high workloads.  Also in rural places where there is not easy access to radiologists, the process is further delayed.  Artificial intelligence (AI) and deep learning have made an immense impact on enterprise imaging in recent years and this impact continues to grow each and every day.  FUJIFILM's Healthcare division has been leading the industry with its innovation and support of radiologists every step of the way. Fujifilm's Synapse® Enterprise Imaging portfolio, along with its REiLI® AI platform, exemplifies how AI can revolutionize the radiology field.
 
-## Name of the Company : 
-### FUJIFILM Healthcare 
-#### Legal Name - FUJIFILM Holdings Americas Corporation
- > Fujifilm company was founded by Kahunichi Nakajima, and its headquarter is in Tokyo, Japan.  FUJIFILM Healthcare is a subsidiary of FUJIFILM Holdings Corporation which has 310 consolidated subsidiaries worldwide.   Fujifilm's healthcare history began in 1936 when the company started making X-ray film, and has since evolved to include a wide range of products and services:including diagnostic imaging, ultrasound systems,CT, and MRI. (https://www.fujifilm.com/us/en/healthcare). The healthcare business of Fujifilm Holdings corporation  is the companys largest segment with global revenue of $29 billion. Healthcare business alone generates $6.4 billion as of march 31 2023. https://healthcaresolutions-us.fujifilm.com/who-we-are/
+## Use case : Challenges in Radiology 
+### Key Issues: 
+* Delayed Diagnosis: Radiologists often face delays in reviewing critical medical images due to high workloads and the prioritization of studies
+* Workflow Inefficiencies: Traditional methods of managing imaging tasks can be cumbersome, consuming valuable time that could be better spent on patient care. 
+* Integration of AI: The challenge of effectively integrating AI technologies into existing medical imaging systems to enhance efficiency and collaboration among various stakeholders in healthcare remains a hurdle for many healthcare organizations.
+
+## AI as a Solution 
+AI technologies can scan medical images immediately post-acquisition, prioritizing critical findings and enabling faster diagnostic insights. This capability not only enhances patient care but also optimizes the workflow for radiologists.
+
+## Company Overview
+## Fujifilm Healthcare
+* Legal Name - FUJIFILM Holdings Americas Corporation
+* Founded: 1936 (initially as a manufacturer of X-ray film)
+* Headquarters: Tokyo, Japan
+* Market Position: The healthcare segment generated $6.4 billion in revenue as of March 31, 2023.
+(https://www.fujifilm.com/us/en/healthcare) 
+https://healthcaresolutions-us.fujifilm.com/who-we-are/
  ![alt text](image.png)
 
-## Project / Product Name 
-### Fujifilm’s The Synapse® Enterprise Imaging portfolio along with REiLI®
-* The Synapse® Enterprise Imaging portfolio is a one stop platform that provides healthcare professionals with imaging data and access to all other data needed to deliver a complete patient record. This platform combines its existing image-processing technologies with AI, and  creates an open platform that provides robust support for diagnostic imaging. 
-* REiLI® is Fujifilm’s artificial intelligence initiative and is the company's medical AI brand. In Japanese, the word “REiLI” connotes intelligent and resourceful. This AI technology creates value by collaboration of AI with human and other AI.  
+## Product Portfolio 
+* Synapse® Enterprise Imaging: An integrated platform that unifies various imaging data and provides healthcare professionals with a complete patient record.
+* REiLI® AI Platform: Fujifilm’s AI initiative, designed to enhance diagnostic capabilities through collaboration between AI and human expertise.
 ![alt text](image-1.png)
 https://reili.fujifilm.com/en/technology/index.html
- 
 
-## Use case the project is trying to solve 
-* Delayed Diagnosis: Radiologists often face delays in reviewing critical medical images due to high workloads and the prioritization of studies, which can lead to significant impacts on patient outcomes. The primary area being focused by AI is to scan  medical images as soon as possible after acquisition, before they reach the radiologist.
-* Workflow Inefficiencies: Traditional methods of managing imaging tasks can be cumbersome, consuming valuable time that could be better spent on patient care. 
-* Integration of AI: The challenge of effectively integrating AI technologies into existing medical imaging systems to enhance efficiency and collaboration among various stakeholders in healthcare.
 ![alt text](image-2.png)
 ###### <div align="center">Example of Use of AI in Radiology </div>
 https://reili.fujifilm.com/en/research/id=research202409-01/index.html
 https://radiologybusiness.com/sponsored/50136/fujifilm-healthcare-americas/topics/medical-imaging/transforming-radiologist
 
+## Target Market 
+* Clinical Laboratories
+* Large healthcare organizations including hostpitals , imaging centers and mulit speciality clinics 
+* Government
+* Rural hospitals 
+* Veterinary 
 
- 
-## Who is the company's intended customer? Is there any information about the market size of this set of customers? 
-* Clinical Laboratories, Large healthcare organizations , including hostpitals , imaging centers and mulit speciality clinics,  Government, Rural hospitals , Veterinary 
+## Market size and growth 
 * _According to Signify Research report , Synapse PACS is among the worlds top market share. As of fy 2023, the total number of countries introducing the AI driven medical products and services is 100 and forecasted to 196 countries in FY2030._ 
 https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/ 
 
 * _According to Signify Research Report , SYNAPSE is installed about 5800 sites worldwide . It has gained high praise from major hospitals  in various areas and  captured the worlds market share_
 https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf
 
-
-## What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-* Fujifilm’s next-generation enterprise imaging solution i.e. the Synapse® Enterprise Imaging portfolio , Synapse® 7x , unifies the products within the company’s Synapse portfolio — including Radiology PACS, Cardiology PACS, 3D Advanced Visualization, VNA and Fujifilm’s AI-enabled platform REiLI® — on one common viewing platform.
-
-* The Synapse Radiology and Cardiology PACS functionality is developed with ongoing direction from radiologists and cardiologists which is very integral to Synapse 7x
-
-* Fujifilm’s Synapse PACS is a robust server-side rendering solution that helps streamline diagnostic image analysis, interpretation, and reporting for radiology and cardiology studies across the enterprise.
-
-* REiLI platform serves as the intelligent layer between AI imaging analytics engines and AI-enabled applications like PACS. It is basically collaboration of AI with human and other AI .  This platform will provide the rules of use for AI engines, the management of AI results and the distribution of results to AI use cases within clinical applications, and it also  offers an open API so providers can take advantage of third-party AI engines or their own AI work. Having an open platform allows other third-party AI engines to use the Synapse® platform and make their results accessible to our use cases which further strengthens the data being made available to the stakeholders.
-
-   * REiLis open platform would trigger multiple AI engines to scan these studies to provide valuable imaging analytics .  
-   * AI can reprioritize work list. For example AI findings can flag critical findings and categorize as urgent which otherwise might not be seen by a radiologist for 20, 30 minutes or more if originally not categorized as urgent
-   * AI can communicate with appropriate physicians.  For example, there is a bleed in the brain of an unread study, AI can send communication out to a group of physicians so that it’s flagged as even more immediate as opposed to just being placed at the top of a worklist.
-   * AI will be able to help providers better care for patients in the emergency department, digesting all of the available information surrounding a patient and their history and giving it to physicians in a comprehensive view within the short amount of time they have to make critical decisions. 
-
-* Fujifilm’s Synapse PACS is a robust server-side rendering solution that helps streamline diagnostic image analysis, interpretation, and reporting for radiology and cardiology studies across the enterprise.
-
+## Competitive Advantage 
+Fujifilm's Synapse® 7x platform offers a unique advantage through its:
+* Unified viewing of imaging products (Radiology PACS, Cardiology PACS,3D Advanced Visualization, VNA and Fujifilm’s AI-enabled platform REiLI® etc.)
+* Continuous input from healthcare professionals (radiologists and cardiologists) during functionality development 
+* Integration capabilities with third-party AI engines, enhancing the overall imaging ecosystem and further strengthening the data being made available to the stakeholders.
 https://www.globenewswire.com/news-release/2022/03/15/2403670/0/en/Fujifilm-Presents-Award-winning-Synapse-Enterprise-Imaging-Portfolio-at-HIMSS-2022.html
 
-
-## Which technologies are they currently using, and how are they implementing them? 
-
+## Technological Implementation
  Fujifilm's Synpase product has Microsoft Azure as its strategic cloud partner. This product leverages several components of Microsoft Azure 
    * Azure Virtual Machines (Vms)
    * Azure Blob Storage 
@@ -71,9 +71,6 @@ Fujifilm implemented its Synapse product on Microsoft Azure through a combinatio
 * Cloud Infrastructure Design and Setup - Traditionaly the Synapse platform was deployed on-premises, it had to be re-architected for cloud infrastructure using Microsoft Azure services 
 * Data Migration - Large amount of clinical and imaging data has been moved from local storage to Azure Blob Storage . This process involved Data Anonymization and data encryption to comply with HIPAA 
 * Containerization and Microservices Architecture - Fujifilm uses Azure Kubernetes Service (AKS) to deploy Synapse as a microservices based architecture. 
-
-
- Source - Used Chat GPT for this information 
 
 ## Landscape - Image Diagnosis AI
 ## Fujifilm's History
@@ -102,7 +99,7 @@ Released cloud AI development platform service to assist healthcare professional
 
 https://reili.fujifilm.com/en/about/index.html
 
-## What are the other major companies in this field?
+## Major Competitors 
 * GE HealthCare - Centiricity 
 * Change HealthCare - Radiology solutions
 * IBM - Merge PACS 
@@ -111,7 +108,7 @@ https://reili.fujifilm.com/en/about/index.html
 https://www.definitivehc.com/blog/future-trends-in-medical-imaging
 
 
-##  What has been the business impact of this company so far? 
+##  Business Impact 
 * Enhanced Clinical Efficiency:
 By providing a unified view of patient images across different modalities, clinicians can access all relevant information quickly, leading to faster diagnosis and treatment decisions. 
 * Improved Collaboration:
@@ -122,90 +119,37 @@ With a centralized system, healthcare organizations can minimize the need to man
 The cloud-based infrastructure allows for flexible deployment and scalability to accommodate growing data needs and changing healthcare demands. 
 
 
-## What are some of the core metrics that companies in this field use to measure success? How is Fujfilm's Synapse performing based on these metrics?
-As of March 2022
-1. GE HealthCare - Centiricity - 19.55% of market share with  1187 Nbr of Installs 
-2. Change HealthCare - Radiology solutins - 13.75% of market share with with 835 nbr of installs 
-3. Fujiflim Medical systems - Synapse - 11% of market share with with 674 nbr of installs 
-4. IBM -Merge PACS - 9.78% market share with 594 nbr of installs 
+## Core metrics for Success 
+Fujifilm measures success through key performance indicators, including:
+* Market share and number of installations.
+   As of March 2022
+   1. GE HealthCare - Centiricity - 19.55% of market share with  1187 Nbr of Installs 
+   2. Change HealthCare - Radiology solutins - 13.75% of market share with with 835 nbr of installs 
+   3. Fujiflim Medical systems - Synapse - 11% of market share with with 674 nbr of installs 
+   4. IBM -Merge PACS - 9.78% market share with 594 nbr of installs 
+* Customer satisfaction ratings (e.g., KLAS scores).
+* Clinical efficiency improvements and workflow enhancements.
+
 https://www.definitivehc.com/resources/healthcare-insights/top-PACS-number-installs
 
-## How is Fujfilm performing relative to competitors in the same field?  
-
-#### Best performing large health system PACS 
-In the PACS product category for large healthcare centers with more than 300,000 studies per year, the Best in KLAS product was Sectra, which it has earned several year in a row. The list in order of overall performance score:
-
-   • Sectra PACS, 87.1
-   • Merative (formerly IBM Watson Health) Merge PACS, 84.5
-   • Change Healthcare Radiology Solutions, 80.3
-   • Fujifilm Synapse, 78.5
-   • Agfa Healthcare, Enterprise Imaging for Radiology, 75.6
-   • GE Healthcare Centricity PACS, 60.4
-
-Sectra users said they would buy the product again and 100% said they have long-term plans with this vendor. Change Healthcare scored high for keeping promises, with 95% of users. Merative was listed as very likely to be purchased again in the future with 96% of its users.
-
-#### Best performing small health system PACS 
-The small PACS market is classified as healthcare organizations with less than 300,000 studies per year. The Best in KLAS product was Sectra. The vendor's users all said they would buy the product again and all expected to include Sectra in their long-term plans.
-
-The list of all vendors included in interviews in order of overall performance scores:
-
-   • Sectra PACS, 89.6
-   • Fujifilm Synapse, 83.8
-   • Philips Vue PACS (Carestream), 83
-   • Change Healthcare Radiology Solutions, 81.7
-   • Infinitt PACS, 79.4
-   • Merative (formerly IBM Watson) Merge PACS, 78.5
-   • Konica Minolta Exa PACS, 77.5
-   • Intelerad IntelePACS, 73.7
-   • GE Healthcare Centricity PACS, 67.9
-
-For Sectra, 96% of end-users said they would buy the system again.
+## Performance Relative to Competitors 
+Fujifilm's Synapse holds an 11% market share, with a significant number of installations. While competitors like GE Healthcare and Sectra lead in market share, Fujifilm's focus on AI integration positions it as a formidable player in the radiology space.
 
 https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program
 
 ## Recommendations
-#### Following would be my recommendations 
+* Synapse® Enterprise Imaging portfolio with Reilis AI brings about an open, vendor neutral platform, which can integrate with various AI models resulting in automatic and rapid identification and prioritization of tasks. This enables improved reading accuracy by radiloglosts , reduce reading time and thus improving workflow.  
+* Fujifilm leverages Azure's compatibility with open standards such as FHIR (Fast Healthcare Interoperability Resources) ensures that Synapse integrates smoothly with other healthcare systems ,enabling seemless exchange of clinical and imaging data across healthcare providers.  
 
-* Synapse® Enterprise Imaging portfolio with Reilis AI platform - using this open, vendor neutral platform, you can integrate with various AI models. Data from other AI models can be integrated, resulting in automatic and rapid identification and prioritization of tasks. This enables improved reading accuracy by radiloglosts or cphysicians or clinical staff, reduce reading time and improving workflow 
+## Conclusion
+Fujifilm Healthcare is transforming the radiology landscape with its AI-driven imaging solutions. By addressing the challenges faced by radiologists and healthcare organizations, Fujifilm is not only improving diagnostic efficiency but also enhancing patient care. Continued innovation and strategic partnerships will be key to maintaining its leadership position in the rapidly evolving medical imaging market.
 
-
-####  Why do you think that offering this product or service would benefit the company?
-* Medical imaging saves millions of lives each year. It helps doctors to detect and diagnose a wide range of diseases, from cancer and appendicitis to stroke and heart disease.
-With help from AI, imaging technicians don’t even need to rely on their eyes alone to identify potential concerns.
-
-* 1000 images in one patients CAT scan. The AI helps by highlighting which of the 1000 images has an important finding in it. Using this product will help physicians with diagnostic insights, giving them more time to oversee treatments and work directly with patients. This will improve the accuracy and speed of decision-making around treatment options.
-
-* In many remote parts of the world where there is not access to radiologists , AI can support non radiologist doctors in what to look for. It gives them confidence that they are making the right decisions. 
-
-https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-ai-orchestrator/
- 
-https://radiologybusiness.com/topics/artificial-intelligence/legal-considerations-artificial-intelligence-radiology-and?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content
-
-https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program
-
-### What technologies would this additional product or service utilize?
-
-* This product can integrate well with Synapse RIS (radiology information system). Synapse RIS integrates with Synapse PACS (Picture Archiving and Communication System) and has additional productivity enhancing features for radiologists such as:
-   *  An interactive analytics dashboard that provides a visual snapshot of key performance indicators
-   * Peer review capabilities directly integrated into the diagnostic process
-   * Urgent findings for providing closed-loop communications and compliance
-   * Patient portal capabilities to empower patients, reduce wait times and satisfy meaningful use criteria
- 
-* _“Synapse RIS has integrated EHR into a powerful radiology management tool that can enhance workflow and increase the productivity of radiology practices,”_ said Jim Morgan, vice president of medical informatics, Fujifilm. “The platform offers the flexibility needed to support additional stages of meaningful use criteria, as well as other government regulations that may be forthcoming.” 
- 
-* Synapse Cloud Services - Synapse Cloud Services seamlessly hosts, archives, and protects enterprise imaging data.
-
-https://www.itnonline.com/content/fujifilm-demonstrates-meaningful-use-stage-ii-requirements-radiology-professionals
-
-### Why are these technologies appropriate for your solution?
-HealthCare API Integration 
-
-Fujifilm leverages Azure's compatibility with open standards such as FHIR (Fast Healthcare Interoperability Resources) ensures that Synapse integrates smoothly with other healthcare systems ,enabling seemless exchange of clinical and imaging data across healthcare providers.  
-
+## References 
 https://ecqi.healthit.gov/fhir?qt-tabs_fhir=about
-
-
-## Sources
+https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-ai-orchestrator/
+https://radiologybusiness.com/topics/artificial-intelligence/legal-considerations-artificial-intelligence-radiology-and?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content
+https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program
+https://www.itnonline.com/content/fujifilm-demonstrates-meaningful-use-stage-ii-requirements-radiology-professionals
 https://reili.fujifilm.com/en/technology/index.html
 https://radiologybusiness.com/topics/artificial-intelligence/acr-offers-resources-achieve-radiology-ai-best-practices
 https://www.globenewswire.com/news-release/2021/11/23/2340033/0/en/Fujifilm-s-REiLI-Artificial-Intelligence-Platform-Now-in-Clinical-Use-for-Intracranial-Hemorrhage-and-Breast-Cancer-Detection-and-Diagnosis.html
@@ -217,3 +161,5 @@ https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/tease
 https://www.itnonline.com/content/rsna-2024-registration-open
 https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/
 https://radiologybusiness.com/topics/artificial-intelligence/trends-adoption-and-integration-ai-radiology-workflows?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content
+Used Chat GPT's help in re-organizing the gathered data to render in a report format 
+
