@@ -20,8 +20,8 @@ AI technologies can scan medical images immediately post-acquisition, prioritizi
 * Founded: 1936 (initially as a manufacturer of X-ray film)
 * Headquarters: Tokyo, Japan
 * Market Position: The healthcare segment generated $6.4 billion in revenue as of March 31, 2023.
-* (https://www.fujifilm.com/us/en/healthcare) 
-* https://healthcaresolutions-us.fujifilm.com/who-we-are/
+* _https://www.fujifilm.com/us/en/healthcare_ 
+* _https://healthcaresolutions-us.fujifilm.com/who-we-are/_
 
 ## Product Portfolio 
 * Synapse® Enterprise Imaging: An integrated platform that unifies various imaging data and provides healthcare professionals with a complete patient record.
@@ -37,17 +37,17 @@ AI technologies can scan medical images immediately post-acquisition, prioritizi
 
 ## Market size and growth 
 * _According to Signify Research report , Synapse PACS is among the worlds top market share. As of fy 2023, the total number of countries introducing the AI driven medical products and services is 100 and forecasted to 196 countries in FY2030._ 
-* https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/ 
+* _https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/_
 
 * _According to Signify Research Report , SYNAPSE is installed about 5800 sites worldwide . It has gained high praise from major hospitals  in various areas and  captured the worlds market share_
-* https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf
+* _https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf_
 
 ## Competitive Advantage 
 Fujifilm's Synapse® 7x platform offers a unique advantage through its:
 * Unified viewing of imaging products (Radiology PACS, Cardiology PACS,3D Advanced Visualization, VNA and Fujifilm’s AI-enabled platform REiLI® etc.)
 * Continuous input from healthcare professionals (radiologists and cardiologists) during functionality development 
 * Integration capabilities with third-party AI engines, enhancing the overall imaging ecosystem and further strengthening the data being made available to the stakeholders.
-* https://www.globenewswire.com/news-release/2022/03/15/2403670/0/en/Fujifilm-Presents-Award-winning-Synapse-Enterprise-Imaging-Portfolio-at-HIMSS-2022.html
+* _https://www.globenewswire.com/news-release/2022/03/15/2403670/0/en/Fujifilm-Presents-Award-winning-Synapse-Enterprise-Imaging-Portfolio-at-HIMSS-2022.html_
 
 ## Technological Implementation
  Fujifilm's Synpase product has Microsoft Azure as its strategic cloud partner. This product leverages several components of Microsoft Azure 
@@ -88,14 +88,14 @@ It is a technology that supports the automation of inspections.
 Released Cloud AI platform service (Provided only in Japan) Japan
 * 2022 - SYNAPSE Creative Space
 Released cloud AI development platform service to assist healthcare professionals and enginieers in develpoing AI technology.
-* https://reili.fujifilm.com/en/about/index.html
+* _https://reili.fujifilm.com/en/about/index.html_
 
 ## Major Competitors 
 * GE HealthCare - Centiricity 
 * Change HealthCare - Radiology solutions
 * IBM - Merge PACS 
 * Sectra PACS, 87.1
-* https://www.definitivehc.com/blog/future-trends-in-medical-imaging
+* _https://www.definitivehc.com/blog/future-trends-in-medical-imaging_
 
 
 ##  Business Impact 
@@ -119,11 +119,11 @@ Fujifilm measures success through key performance indicators, including:
    4. IBM -Merge PACS - 9.78% market share with 594 nbr of installs 
 * Customer satisfaction ratings (e.g., KLAS scores).
 * Clinical efficiency improvements and workflow enhancements.
-* https://www.definitivehc.com/resources/healthcare-insights/top-PACS-number-installs
+* _https://www.definitivehc.com/resources/healthcare-insights/top-PACS-number-installs_
 
 ## Performance Relative to Competitors 
 Fujifilm's Synapse holds an 11% market share, with a significant number of installations. While competitors like GE Healthcare and Sectra lead in market share, Fujifilm's focus on AI integration positions it as a formidable player in the radiology space.
-* https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program
+* _https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program_
 
 ## Recommendations
 * Synapse® Enterprise Imaging portfolio with Reilis AI brings about an open, vendor neutral platform, which can integrate with various AI models resulting in automatic and rapid identification and prioritization of tasks. This enables improved reading accuracy by radiloglosts , reduce reading time and thus improving workflow.  
@@ -133,21 +133,21 @@ Fujifilm's Synapse holds an 11% market share, with a significant number of insta
 Fujifilm Healthcare is transforming the radiology landscape with its AI-driven imaging solutions. By addressing the challenges faced by radiologists and healthcare organizations, Fujifilm is not only improving diagnostic efficiency but also enhancing patient care. Continued innovation and strategic partnerships will be key to maintaining its leadership position in the rapidly evolving medical imaging market.
 
 ## References 
-* https://ecqi.healthit.gov/fhir?qt-tabs_fhir=about
-* https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-ai-orchestrator/
-* https://radiologybusiness.com/topics/artificial-intelligence/legal-considerations-artificial-intelligence-radiology-and?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content
-* https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program
-* https://www.itnonline.com/content/fujifilm-demonstrates-meaningful-use-stage-ii-requirements-radiology-professionals
-* https://reili.fujifilm.com/en/technology/index.html
-* https://radiologybusiness.com/topics/artificial-intelligence/acr-offers-resources-achieve-radiology-ai-best-practices
-* https://www.globenewswire.com/news-release/2021/11/23/2340033/0/en/* Fujifilm-s-REiLI-Artificial-Intelligence-Platform-Now-in-Clinical-Use-for-Intracranial-Hemorrhage-and-Breast-Cancer-Detection-and-Diagnosis.html
-* https://klasresearch.com/compare/pacs-global/240
-* https://klasresearch.com/report/latin-america-pacs-2024-a-look-at-vendor-performance-in-an-evolving-market/3294
-* https://www.definitivehc.com/resources/healthcare-insights/top-PACS-number-installs
-* https://radiologybusiness.com/topics/artificial-intelligence/legal-considerations-artificial-intelligence-radiology-and?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content
-* https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf
-* https://www.itnonline.com/content/rsna-2024-registration-open
-* https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/
-* https://radiologybusiness.com/topics/artificial-intelligence/trends-adoption-and-integration-ai-radiology-workflows?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content
-* Used Chat GPT's help in re-organizing the gathered data to render in a report format 
+* _https://ecqi.healthit.gov/fhir?qt-tabs_fhir=about_
+* _https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-ai-orchestrator/_
+* _https://radiologybusiness.com/topics/artificial-intelligence/legal-considerations-artificial-intelligence-radiology-and?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content_
+* _https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/rankings-radiology-it-solutions-end-users-2023-best-klas-program_
+* _https://www.itnonline.com/content/fujifilm-demonstrates-meaningful-use-stage-ii-requirements-radiology-professionals_
+* _https://reili.fujifilm.com/en/technology/index.html_
+* _https://radiologybusiness.com/topics/artificial-intelligence/acr-offers-resources-achieve-radiology-ai-best-practices_
+* _https://www.globenewswire.com/news-release/2021/11/23/2340033/0/en/* Fujifilm-s-REiLI-Artificial-Intelligence-Platform-Now-in-Clinical-Use-for-Intracranial-Hemorrhage-and-Breast-Cancer-Detection-and-Diagnosis.html_
+* _https://klasresearch.com/compare/pacs-global/240_
+* _https://klasresearch.com/report/latin-america-pacs-2024-a-look-at-vendor-performance-in-an-evolving-market/3294_
+* _https://www.definitivehc.com/resources/healthcare-insights/top-PACS-number-installs_
+* _https://radiologybusiness.com/topics/artificial-intelligence/legal-considerations-artificial-intelligence-radiology-and?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content_
+* _https://ir.fujifilm.com/en/investors/ir-materials/business-overview/main/0/teaserItems1/0/linkList/0/link/ff_presentation_202407_001e.pdf_
+* _https://www.itnonline.com/content/rsna-2024-registration-open_
+* _https://healthcaresolutions-us.fujifilm.com/who-we-are/industries-we-serve/_
+* _https://radiologybusiness.com/topics/artificial-intelligence/trends-adoption-and-integration-ai-radiology-workflows?utm_source=related_content&utm_medium=related_content&utm_campaign=related_content_
+* _Used Chat GPT's help in re-organizing the gathered data to render in a report format_
 
